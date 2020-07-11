@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   gql:
   gql_exec:
+  gql_link:
+  gql_http_link:
 
 dev_dependencies:
   build_runner:
